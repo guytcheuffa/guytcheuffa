@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Guy Tcheuffa, Data science, AI engineering, automation">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Guy Tcheuffa, Data Scientist and AI Engineer">
   <style>
     .sans { font-family: 'IBM Plex Sans', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
     .mono { font-family: 'JetBrains Mono', 'Cascadia Code', Consolas, monospace; }
@@ -16,8 +16,8 @@
 
   <!-- Identité -->
   <text x="228" y="132" class="sans" font-size="50" font-weight="700" fill="#ECE9E4" letter-spacing="-1">Guy Tcheuffa</text>
-  <text x="230" y="172" class="sans" font-size="22" font-weight="500" fill="#FF8A6B">Data science · AI engineering · Automation</text>
-  <text x="230" y="208" class="sans" font-size="17" fill="#9AA0A6">Data and AI pipelines that are measured, sourced and honest about their limits.</text>
+  <text x="230" y="172" class="sans" font-size="22" font-weight="500" fill="#FF8A6B">Data Scientist · AI Engineer</text>
+  <text x="230" y="208" class="sans" font-size="17" fill="#9AA0A6">ESIEE Paris engineer in Data Science &amp; AI · UC San Diego exchange</text>
 
   <!-- Petit graphe de pipeline (DAG) -->
   <g transform="translate(905 70)">
@@ -40,5 +40,5 @@
 
   <!-- Bas de bannière -->
   <circle cx="232" cy="248" r="5" fill="#3FB950" class="live"/>
-  <text x="246" y="253" class="sans" font-size="15" fill="#9AA0A6">Open to VIE opportunities in data &amp; AI</text>
+  <text x="246" y="253" class="sans" font-size="15" fill="#9AA0A6">Open to VIE opportunities · Paris, France</text>
 </svg>
