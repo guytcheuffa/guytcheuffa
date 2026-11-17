@@ -2,16 +2,18 @@
 
 <img src="assets/banner.svg" width="100%" alt="Guy Tcheuffa — Data Scientist, AI Engineer"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guy--tcheuffa-1C1F24?style=for-the-badge&logo=linkedin&logoColor=FF8A6B)](https://www.linkedin.com/in/guy-tcheuffa)
-[![Email](https://img.shields.io/badge/Email-guytcheuffa02@gmail.com-1C1F24?style=for-the-badge&logo=gmail&logoColor=FF8A6B)](mailto:guytcheuffa02@gmail.com)
-[![Location](https://img.shields.io/badge/Paris-France-1C1F24?style=for-the-badge&logo=googlemaps&logoColor=FF8A6B)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guy--tcheuffa-0E1524?style=for-the-badge&logo=linkedin&logoColor=7AA7FF)](https://www.linkedin.com/in/guy-tcheuffa)
+[![Email](https://img.shields.io/badge/Email-guytcheuffa02@gmail.com-0E1524?style=for-the-badge&logo=gmail&logoColor=7AA7FF)](mailto:guytcheuffa02@gmail.com)
+[![Location](https://img.shields.io/badge/Paris-France-0E1524?style=for-the-badge&logo=googlemaps&logoColor=7AA7FF)](#)
 
 </div>
 
 ### About
 
 I build data and AI systems end to end, from raw data to a model or an LLM pipeline people can use, and I always measure how well they work.
-Engineering degree in Data Science & AI (ESIEE Paris, 2026), exchange semester at UC San Diego. Looking for a **VIE** in data or AI.
+Engineering degree in Data Science & AI (ESIEE Paris, 2026), exchange semester at UC San Diego. Open to data and AI roles in France and abroad.
+
+![Databricks Fundamentals](https://img.shields.io/badge/Certified-Databricks_Fundamentals_·_2026-0E1524?style=for-the-badge&logo=databricks&logoColor=7AA7FF)
 
 ### Experience
 
@@ -56,23 +58,23 @@ iEEG signal pipeline for 20+ patients, LSTM and Transformer models, statistical 
 
 ### Toolbox
 
-![Python](https://img.shields.io/badge/Python-1C1F24?style=flat-square&logo=python&logoColor=FF8A6B)
-![SQL](https://img.shields.io/badge/SQL-1C1F24?style=flat-square)
-![R](https://img.shields.io/badge/R-1C1F24?style=flat-square&logo=r&logoColor=FF8A6B)
-![pandas](https://img.shields.io/badge/pandas-1C1F24?style=flat-square&logo=pandas&logoColor=FF8A6B)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1C1F24?style=flat-square&logo=scikitlearn&logoColor=FF8A6B)
-![PyTorch](https://img.shields.io/badge/PyTorch-1C1F24?style=flat-square&logo=pytorch&logoColor=FF8A6B)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1C1F24?style=flat-square&logo=tensorflow&logoColor=FF8A6B)
-![XGBoost](https://img.shields.io/badge/XGBoost-1C1F24?style=flat-square)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-1C1F24?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-1C1F24?style=flat-square&logo=n8n&logoColor=FF8A6B)
-![Docker](https://img.shields.io/badge/Docker-1C1F24?style=flat-square&logo=docker&logoColor=FF8A6B)
-![AWS](https://img.shields.io/badge/AWS-1C1F24?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1C1F24?style=flat-square&logo=githubactions&logoColor=FF8A6B)
-![MongoDB](https://img.shields.io/badge/MongoDB-1C1F24?style=flat-square&logo=mongodb&logoColor=FF8A6B)
-![DuckDB](https://img.shields.io/badge/DuckDB-1C1F24?style=flat-square&logo=duckdb&logoColor=FF8A6B)
-![Streamlit](https://img.shields.io/badge/Streamlit-1C1F24?style=flat-square&logo=streamlit&logoColor=FF8A6B)
-![Plotly](https://img.shields.io/badge/Plotly-1C1F24?style=flat-square&logo=plotly&logoColor=FF8A6B)
-![Power BI](https://img.shields.io/badge/Power_BI-1C1F24?style=flat-square)
+![Python](https://img.shields.io/badge/Python-0E1524?style=flat-square&logo=python&logoColor=7AA7FF)
+![SQL](https://img.shields.io/badge/SQL-0E1524?style=flat-square)
+![R](https://img.shields.io/badge/R-0E1524?style=flat-square&logo=r&logoColor=7AA7FF)
+![pandas](https://img.shields.io/badge/pandas-0E1524?style=flat-square&logo=pandas&logoColor=7AA7FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0E1524?style=flat-square&logo=scikitlearn&logoColor=7AA7FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0E1524?style=flat-square&logo=pytorch&logoColor=7AA7FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0E1524?style=flat-square&logo=tensorflow&logoColor=7AA7FF)
+![XGBoost](https://img.shields.io/badge/XGBoost-0E1524?style=flat-square)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-0E1524?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-0E1524?style=flat-square&logo=n8n&logoColor=7AA7FF)
+![Docker](https://img.shields.io/badge/Docker-0E1524?style=flat-square&logo=docker&logoColor=7AA7FF)
+![AWS](https://img.shields.io/badge/AWS-0E1524?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0E1524?style=flat-square&logo=githubactions&logoColor=7AA7FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0E1524?style=flat-square&logo=mongodb&logoColor=7AA7FF)
+![DuckDB](https://img.shields.io/badge/DuckDB-0E1524?style=flat-square&logo=duckdb&logoColor=7AA7FF)
+![Streamlit](https://img.shields.io/badge/Streamlit-0E1524?style=flat-square&logo=streamlit&logoColor=7AA7FF)
+![Plotly](https://img.shields.io/badge/Plotly-0E1524?style=flat-square&logo=plotly&logoColor=7AA7FF)
+![Power BI](https://img.shields.io/badge/Power_BI-0E1524?style=flat-square)
 
-<sub>ESIEE Paris (Data Science & AI, 2026) · UC San Diego (2025) · Databricks Fundamentals (2026) · French, English C1, Spanish B1/B2</sub>
+<sub>ESIEE Paris (Data Science & AI, 2026) · UC San Diego (2025) · French, English C1, Spanish B1/B2</sub>
