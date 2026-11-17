@@ -40,5 +40,5 @@
 
   <!-- Bas de bannière -->
   <circle cx="232" cy="248" r="5" fill="#3FB950" class="live"/>
-  <text x="246" y="253" class="sans" font-size="15" fill="#8B9AB3">Open to opportunities in France and abroad · Based in Paris</text>
+  <text x="246" y="253" class="sans" font-size="15" fill="#8B9AB3">Open to opportunities abroad and in France · Based in Paris</text>
 </svg>
